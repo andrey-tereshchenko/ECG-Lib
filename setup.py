@@ -19,4 +19,5 @@ setup(name='ecg_lib',
       author_email='avtogol1998@gmail.com',
       description='Library for build word2vec model based on ECG signal',
       install_requires=parse_requirements(),
+      packages=['ecg_lib'],
       zip_safe=False)
