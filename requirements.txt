@@ -1,5 +1,5 @@
-numpy>=1.19.4
-matplotlib>=3.3.3
+numpy
+matplotlib
 gensim>=3.8.3
-py-ecg-detectors>=1.0.2
-sklearn>=0.0
+py-ecg-detectors==1.0.2
+sklearn
