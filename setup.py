@@ -12,12 +12,7 @@ def parse_requirements() -> List[str]:
 
 
 setup(name='ecg_lib',
-      version='0.1',
-      url='https://github.com/andrey-tereshchenko/ECG-Lib',
-      license='MIT',
-      author='Andrii Tereshchenko',
-      author_email='avtogol1998@gmail.com',
-      description='Library for build word2vec model based on ECG signal',
-      install_requires=parse_requirements(),
+      version='0.0.1',
       packages=['ecg_lib'],
-      zip_safe=False)
+      install_requires=parse_requirements()
+      )
