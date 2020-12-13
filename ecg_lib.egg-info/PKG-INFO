@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ecg-lib
+Version: 0.1
+Summary: Library for build word2vec model based on ECG signal
+Home-page: https://github.com/andrey-tereshchenko/ECG-Lib
+Author: Andrii Tereshchenko
+Author-email: avtogol1998@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
